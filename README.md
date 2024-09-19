@@ -1,7 +1,12 @@
+# Praise Ifenkwe
+
 <div align="center">
-  <h1 style="color: white; font-size: 3em; text-shadow: 2px 2px 4px rgba(0,0,0,0.5); background: linear-gradient(45deg, #6a11cb 0%, #2575fc 100%); padding: 40px; border-radius: 10px;">Praise Ifenkwe</h1>
-  <p style="color: #eee; font-size: 1.2em; margin-top: 10px; background: linear-gradient(45deg, #6a11cb 0%, #2575fc 100%); padding: 10px; border-radius: 5px;">MERN Stack Developer | AI Enthusiast | Lagos, Nigeria 🇳🇬</p>
+
+**MERN Stack Developer | AI Enthusiast | Lagos, Nigeria 🇳🇬**
+
 </div>
+
+---
 
 ## About Me
 
@@ -9,37 +14,35 @@
 
 ## 🚀 Skills
 
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="background-color: #61dafb; color: white; padding: 5px 10px; border-radius: 5px;">React</span>
-  <span style="background-color: #68a063; color: white; padding: 5px 10px; border-radius: 5px;">Node.js</span>
-  <span style="background-color: #f0db4f; color: black; padding: 5px 10px; border-radius: 5px;">JavaScript</span>
-  <span style="background-color: #007acc; color: white; padding: 5px 10px; border-radius: 5px;">TypeScript</span>
-  <span style="background-color: #000000; color: white; padding: 5px 10px; border-radius: 5px;">Next.js</span>
-  <span style="background-color: #4DB33D; color: white; padding: 5px 10px; border-radius: 5px;">MongoDB</span>
-  <span style="background-color: #E10098; color: white; padding: 5px 10px; border-radius: 5px;">Express.js</span>
-  <span style="background-color: #E34F26; color: white; padding: 5px 10px; border-radius: 5px;">HTML5</span>
-  <span style="background-color: #1572B6; color: white; padding: 5px 10px; border-radius: 5px;">CSS3</span>
-  <span style="background-color: #06B6D4; color: white; padding: 5px 10px; border-radius: 5px;">Tailwind CSS</span>
-  <span style="background-color: #7952B3; color: white; padding: 5px 10px; border-radius: 5px;">Bootstrap</span>
-  <span style="background-color: #646CFF; color: white; padding: 5px 10px; border-radius: 5px;">Vite</span>
-  <span style="background-color: #FF6F61; color: white; padding: 5px 10px; border-radius: 5px;">AI Integration</span>
-</div>
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=323330)
+![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-4DB33D?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-E10098?style=for-the-badge&logo=express&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![AI Integration](https://img.shields.io/badge/-AI_Integration-FF6F61?style=for-the-badge&logo=ai&logoColor=white)
 
 ## 📫 Let's Connect
 
 Feel free to reach out to me on any of these platforms:
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px;">
-  <a href="https://ifenkwepraise.vercel.app/" target="_blank" style="text-decoration: none; color: #2575fc;">
-    <span style="font-size: 24px;">🌐</span> Personal Website
-  </a>
-  <a href="https://github.com/Ifenkwe-Praise" target="_blank" style="text-decoration: none; color: #333;">
-    <span style="font-size: 24px;">💻</span> GitHub
-  </a>
-  <a href="https://www.linkedin.com/in/praise-ifenkwe-511645251" target="_blank" style="text-decoration: none; color: #0077b5;">
-    <span style="font-size: 24px;">💼</span> LinkedIn
-  </a>
-  <a href="mailto:ifenkwepraise924@gmail.com" style="text-decoration: none; color: #D44638;">
-    <span style="font-size: 24px;">📧</span> Email
-  </a>
+[![Personal Website](https://img.shields.io/badge/-Personal_Website-2575fc?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ifenkwepraise.vercel.app/)
+[![GitHub](https://img.shields.io/badge/-GitHub-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ifenkwe-Praise)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praise-ifenkwe-511645251)
+[![Email](https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ifenkwepraise924@gmail.com)
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ifenkwe-Praise&show_icons=true&theme=radical" alt="Praise Ifenkwe's GitHub stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ifenkwe-Praise&theme=radical" alt="Praise Ifenkwe's GitHub streak" />
 </div>
